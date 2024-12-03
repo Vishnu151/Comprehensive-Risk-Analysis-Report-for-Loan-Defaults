@@ -85,3 +85,11 @@ o Seaborn & Matplotlib: Data visualization.
 
 o Scikit-learn: Data preprocessing.
 
+How to Run the Project
+
+Clone the repository.
+
+Install the necessary Python libraries using pip install -r requirements.txt.
+
+Run the Jupyter Notebook to execute the analysis.
+
