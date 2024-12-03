@@ -68,3 +68,20 @@ The dataset includes missing values, which were imputed using statistical techni
 * Regional Variations:
   * The North-East region shows uniformly high default rates, necessitating targeted interventions.
 
+# Conclusion
+
+This analysis highlights the critical role of borrower characteristics and loan features in predicting loan defaults. The findings can be leveraged to:
+* Improve credit scoring models.
+* Develop targeted risk mitigation strategies.
+* Enhance lending policies to minimize defaults.
+
+# Tools & Libraries Used
+
+o Pandas: Data manipulation and analysis.
+
+o NumPy: Numerical operations.
+
+o Seaborn & Matplotlib: Data visualization.
+
+o Scikit-learn: Data preprocessing.
+
