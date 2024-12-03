@@ -53,18 +53,18 @@ The dataset includes missing values, which were imputed using statistical techni
 # Key Insights
 
 * Loan Purpose Matters:
- * Loans for purpose p2 exhibit the highest default rate across all loan types.
- * Purpose p4 loans are the least risky.
+  * Loans for purpose p2 exhibit the highest default rate across all loan types.
+  * Purpose p4 loans are the least risky.
    
 * Income and Credit Score Interaction:
- * Borrowers with lower income and "Fair" credit scores are more likely to default.
+  * Borrowers with lower income and "Fair" credit scores are more likely to default.
    
 * DTI and Risk:
- * High DTI (>80%) borrowers have a significantly higher default rate (33%).
+  * High DTI (>80%) borrowers have a significantly higher default rate (33%).
    
 * Impact of Upfront Charges:
- * High upfront charges mitigate default risk, particularly for high LTV loans.
+  * High upfront charges mitigate default risk, particularly for high LTV loans.
    
 * Regional Variations:
- * The North-East region shows uniformly high default rates, necessitating targeted interventions.
+  * The North-East region shows uniformly high default rates, necessitating targeted interventions.
 
