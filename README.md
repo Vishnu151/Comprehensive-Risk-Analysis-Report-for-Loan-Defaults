@@ -40,17 +40,31 @@ The dataset includes missing values, which were imputed using statistical techni
   * Segmented borrowers by age, income, and region to identify high-risk groups.
 
 * Correlation Analysis:
-
-Assessed relationships between numerical variables and default status.
-Created heatmaps for a visual summary of correlations.
+ * Assessed relationships between numerical variables and default status.
+ * Created heatmaps for a visual summary of correlations.
 
 * Multivariate Analysis:
-
-Analyzed default probabilities by Loan Type, Loan Purpose, and Business/Commercial status using pivot tables and heatmaps.
+ * Analyzed default probabilities by Loan Type, Loan Purpose, and Business/Commercial status using pivot tables and heatmaps.
 
 * Risk Assessment:
-  
-Evaluated the impact of LTV, upfront charges, and DTI on default rates.
-Segmented defaulters by credit type and geographic region.
+ * Evaluated the impact of LTV, upfront charges, and DTI on default rates.
+ * Segmented defaulters by credit type and geographic region.
 
+# Key Insights
+
+* Loan Purpose Matters:
+ * Loans for purpose p2 exhibit the highest default rate across all loan types.
+ * Purpose p4 loans are the least risky.
+   
+* Income and Credit Score Interaction:
+ * Borrowers with lower income and "Fair" credit scores are more likely to default.
+   
+* DTI and Risk:
+ * High DTI (>80%) borrowers have a significantly higher default rate (33%).
+   
+* Impact of Upfront Charges:
+ * High upfront charges mitigate default risk, particularly for high LTV loans.
+   
+* Regional Variations:
+ * The North-East region shows uniformly high default rates, necessitating targeted interventions.
 
