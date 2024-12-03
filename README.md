@@ -40,15 +40,15 @@ The dataset includes missing values, which were imputed using statistical techni
   * Segmented borrowers by age, income, and region to identify high-risk groups.
 
 * Correlation Analysis:
- * Assessed relationships between numerical variables and default status.
- * Created heatmaps for a visual summary of correlations.
+  * Assessed relationships between numerical variables and default status.
+  * Created heatmaps for a visual summary of correlations.
 
 * Multivariate Analysis:
- * Analyzed default probabilities by Loan Type, Loan Purpose, and Business/Commercial status using pivot tables and heatmaps.
+  * Analyzed default probabilities by Loan Type, Loan Purpose, and Business/Commercial status using pivot tables and heatmaps.
 
 * Risk Assessment:
- * Evaluated the impact of LTV, upfront charges, and DTI on default rates.
- * Segmented defaulters by credit type and geographic region.
+  * Evaluated the impact of LTV, upfront charges, and DTI on default rates.
+  * Segmented defaulters by credit type and geographic region.
 
 # Key Insights
 
