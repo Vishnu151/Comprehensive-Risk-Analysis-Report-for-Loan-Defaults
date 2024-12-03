@@ -28,30 +28,31 @@ The dataset includes missing values, which were imputed using statistical techni
 
 # Analysis Steps
 
-> Data Cleaning:
+* Data Cleaning:
 
 Handled missing values through imputation based on column type and context.
 Renamed columns for clarity and consistency.
 
-> Exploratory Data Analysis (EDA):
+* Exploratory Data Analysis (EDA):
 
 Analyzed distributions of categorical and numerical variables.
 Derived key metrics such as Loan Amount Bins, Credit Score Categories, and DTI Ratios.
 
-> Segmentation:
+* Segmentation:
 
 Segmented borrowers by age, income, and region to identify high-risk groups.
 
-> Correlation Analysis:
+* Correlation Analysis:
 
 Assessed relationships between numerical variables and default status.
 Created heatmaps for a visual summary of correlations.
 
-> Multivariate Analysis:
+* Multivariate Analysis:
 
 Analyzed default probabilities by Loan Type, Loan Purpose, and Business/Commercial status using pivot tables and heatmaps.
 
-> Risk Assessment:
+* Risk Assessment:
+  
 Evaluated the impact of LTV, upfront charges, and DTI on default rates.
 Segmented defaulters by credit type and geographic region.
 
