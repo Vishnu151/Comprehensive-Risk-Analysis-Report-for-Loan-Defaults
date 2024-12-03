@@ -29,18 +29,15 @@ The dataset includes missing values, which were imputed using statistical techni
 # Analysis Steps
 
 * Data Cleaning:
-
-Handled missing values through imputation based on column type and context.
-Renamed columns for clarity and consistency.
+  * Handled missing values through imputation based on column type and context.
+  * Renamed columns for clarity and consistency.
 
 * Exploratory Data Analysis (EDA):
-
-Analyzed distributions of categorical and numerical variables.
-Derived key metrics such as Loan Amount Bins, Credit Score Categories, and DTI Ratios.
+  * Analyzed distributions of categorical and numerical variables.
+  * Derived key metrics such as Loan Amount Bins, Credit Score Categories, and DTI Ratios.
 
 * Segmentation:
-
-Segmented borrowers by age, income, and region to identify high-risk groups.
+  * Segmented borrowers by age, income, and region to identify high-risk groups.
 
 * Correlation Analysis:
 
